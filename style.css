@@ -16,7 +16,7 @@ header {
 
 header h1 {
   font-size:5vw;
-  color:mediumspringgreen;
+  color:red;
   font-family:Impact;
   text-shadow: 2px 2px 5px navy;
   margin: 0;
@@ -24,7 +24,7 @@ header h1 {
 
 header h3 {
   font-size:2vw;
-  color:navy;
+  color:black;
   margin:0;
 }
 
