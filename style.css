@@ -80,14 +80,14 @@ aside a {
   color:white;
 }
 aside li{
-	color:navy;
+	color:red;
 	padding:5px;
 }
 aside h2{
 	color:red;
 }
 aside a:hover {
-  color:navy;
+  color:red;
 }
 article {
   background:rgba(0,0,0,.2);
