@@ -272,6 +272,7 @@ input {
  grid-gap:.5em;
  align-items:end;
  grid-template-columns: repeat(auto-fill, minimax(250px, 1fr));
+}
 /*This stuff is for the hamburger menu*/
 .toggleNav {
     display:grid; /*This is what allows the hamburger icon and "Menu" to display*/
