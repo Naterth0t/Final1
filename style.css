@@ -174,22 +174,22 @@ input {
 }
 .button {
  padding:5px;
- background-color:navy;
- color:lightseagreen;
+ background-color:white;
+ color:red;
 }
 .call {
- color:navy;
+ color:red;
  text-align:center;
  font-size:2em;
- background-color:darkseagreen;
+ background-color:white;
  width:60%;
  padding:5px 0 0 0;
  margin:10px auto 0 auto;
  cursor:pointer;
 }
 .phone {
- color:darkseagreen;
- background-color:navy;
+ color:white;
+ background-color:red;
  padding:5px;
  text-align:center;
  font-size:.75em;
