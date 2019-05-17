@@ -101,21 +101,21 @@ article p {
 grid-area:top;
 }
 .top h2{
-color:navy;
+color:white;
 text-align:center;
 }
 .middle {
 grid-area:middle;
 }
 .middle h2{
-color:navy;
+color:white;
 text-align:center;
 }
 .bottom {
 grid-area:bottom;
 }
 .bottom h2{
-color:navy;
+color:white;
 text-align:center;
 }
 figure {
